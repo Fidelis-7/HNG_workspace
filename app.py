@@ -17,7 +17,7 @@ def home():
         "current_day_of_the_week": weekday,
         "utc_time": formatted_time,
         "track": "backend",
-        "github_file_url": "https://github.com/Fidelis-7/HNG_workspace.git/blob/main/app.py",
+        "github_file_url": "https://github.com/Fidelis-7/HNG_workspace/blob/main/app.py",
         "github_repo_url": "https://github.com/Fidelis-7/HNG_workspace.git",
         "status_code": 200
     }
