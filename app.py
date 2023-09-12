@@ -14,7 +14,7 @@ def home():
 
     data_set = {
         "slack_name": "fidelis Abanum",
-        "current_day_of_the_week": weekday,
+        "current_day": weekday,
         "utc_time": formatted_time,
         "track": "backend",
         "github_file_url": "https://github.com/Fidelis-7/HNG_workspace/blob/main/app.py",
