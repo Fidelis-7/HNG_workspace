@@ -31,7 +31,7 @@ def home():
     # Define the desired order of keys
     key_order = [
         "slack_name",
-        "current_day_of_the_week",
+        "current_day",
         "utc_time",
         "track",
         "github_file_url",
