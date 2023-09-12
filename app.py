@@ -3,7 +3,7 @@ from datetime import datetime
 import json
 
 app = Flask(__name__)
-@app.route("/")
+@app.route("/api" )
 def home():
     current_datetime = datetime.now()
     weekday = current_datetime.strftime('%A')
